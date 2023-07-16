@@ -9,3 +9,6 @@
  
  <img width="641" alt="11111" src="https://github.com/Laith-Metro/GoogleTranslateAPI/assets/133614821/ee8f1cd7-dc4a-4c41-bc9f-0f8f91ed301d">
 
+
+<img width="481" alt="2222" src="https://github.com/Laith-Metro/GoogleTranslateAPI/assets/133614821/a602ff98-b569-4c95-8cc3-451e7d92207b">
+
