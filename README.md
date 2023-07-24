@@ -12,3 +12,6 @@
 
 <img width="481" alt="2222" src="https://github.com/Laith-Metro/GoogleTranslateAPI/assets/133614821/a602ff98-b569-4c95-8cc3-451e7d92207b">
 
+<img width="835" alt="Capture" src="https://github.com/Laith-Metro/GoogleTranslateAPI/assets/133614821/a45dfd11-f61d-4ed1-9f6b-c1e06745d9c3">
+
+
